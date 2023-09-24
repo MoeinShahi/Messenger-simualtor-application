@@ -2,7 +2,6 @@
 #include <string>
 #include <fstream>
 #include "member.h"
-#include "member.h"
 
 using namespace std;
 
