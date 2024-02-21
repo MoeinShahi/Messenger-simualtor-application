@@ -32,5 +32,5 @@ Contributions are welcome! If you have any ideas for improvements or find any is
 
 ## Support
 
-If you encounter any problems or have any questions, please contact [your email or username].
+If you encounter any problems or have any questions, please contact moein.shahi.contact@gmail.com.
 
